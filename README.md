@@ -63,3 +63,16 @@
 - **Core Member, Team Pegasus:** Fabricated a competition aircraft for AIAA Design Build Fly, helping the team secure **26th globally, 3rd in Asia, and 1st in India**.
 - **Peer Mentor:** Mentored six freshmen through their first year at BITS Pilani, supporting their academic and personal development.
 - **Teaching Assistant:** Served as a TA for 3 BITS Pilani courses on Coursera and developed content for one course.
+
+
+<p align="center">
+  ✨ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✨
+</p>
+
+<h3 align="center">
+  <i>"I build software, and maybe, competition aircraft."</i>
+</h3>
+
+<p align="center">
+  ✨ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✨
+</p>
