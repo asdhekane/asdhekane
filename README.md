@@ -43,10 +43,16 @@
 - The system is designed to reduce threat response latency from minutes to seconds.
 
 #### 🏢 Software Engineering Intern @ Dover India Innovation Center
-- Architected and implemented a full-stack web application that automated domain categorization, **reducing manual effort by over 90%**.
-- Utilized a BERT-based NLP engine, improving classification precision by over 50%.
-- Developed the application using Python FastAPI, React, and MongoDB, incorporating secure authentication with MSAL and Platform IDM.
-- Handled NGINX deployment for high-performance web serving.
+- Architected and implemented a full-stack web application to automate domain categorization, reducing manual effort by over 90%,
+while following Agile development strategy for feature-based delivery and rapid development.
+- Utilized a BERT-based NLP engine for intelligent and accurate domain categorization, significantly improving classification
+precision (over 50%) with Python FastAPI for backend and MongoDB for storage.
+- Developed the frontend in React, incorporating robust error handling and secure authentication using Microsoft Authentication Library
+(MSAL) and Platform Identity Management (IdM), and NGINX deployment for high-performance web serving and reverse proxy.
+- Collaborated cross-functionally with internal teams to ensure seamless deployment, robust security, and accurate categorization,
+incorporating feedback-driven improvements throughout the development process.
+
+Designed and created reusable, carousel components for SPAs built on Adobe Experience Manager (AEM).
 
 #### ⚡ Parallelising DMRG (High-Performance Computing)
 - Accelerating Density Matrix Renormalization Group (DMRG) computations for quantum simulations using GPU parallelism with CUDA.
