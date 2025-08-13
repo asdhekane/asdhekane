@@ -37,7 +37,7 @@
 
 ### 🚀 My Projects & Experience
 
-#### 🤖 Agentic AI System for Autonomous Threat Response <a href="https://github.com/asdhekane/agentic-cybersec" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub" width="20"></a>
+#### 🤖 Agentic AI System for Autonomous Threat Response <a href="https://github.com/asdhekane/agentic-cybersec" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repo-1F90FF?style=flat-square&logo=github" alt="GitHub Repo"></a>
 - Architected a multi-agent AI cybersecurity system on the MCP framework to automate the full incident response lifecycle.
 - Leveraged a pre-trained LLM (distilgpt2) to perform NLP-based threat analysis and generate autonomous countermeasures.
 - The system is designed to reduce threat response latency from minutes to seconds.
