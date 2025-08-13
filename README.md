@@ -37,7 +37,7 @@
 
 ### 🚀 My Projects & Experience
 
-#### 🤖 [Agentic AI System for Autonomous Threat Response](https://github.com/asdhekane/agentic-cybersec)
+#### 🤖 Agentic AI System for Autonomous Threat Response <a href="https://github.com/asdhekane/agentic-cybersec" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub" width="20"></a>
 - Architected a multi-agent AI cybersecurity system on the MCP framework to automate the full incident response lifecycle.
 - Leveraged a pre-trained LLM (distilgpt2) to perform NLP-based threat analysis and generate autonomous countermeasures.
 - The system is designed to reduce threat response latency from minutes to seconds.
@@ -51,8 +51,7 @@ precision (over 50%) with Python FastAPI for backend and MongoDB for storage.
 (MSAL) and Platform Identity Management (IdM), and NGINX deployment for high-performance web serving and reverse proxy.
 - Collaborated cross-functionally with internal teams to ensure seamless deployment, robust security, and accurate categorization,
 incorporating feedback-driven improvements throughout the development process.
-
-Designed and created reusable, carousel components for SPAs built on Adobe Experience Manager (AEM).
+- Designed and created reusable, carousel components for SPAs built on Adobe Experience Manager (AEM).
 
 #### ⚡ Parallelising DMRG (High-Performance Computing)
 - Accelerating Density Matrix Renormalization Group (DMRG) computations for quantum simulations using GPU parallelism with CUDA.
