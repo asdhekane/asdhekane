@@ -45,6 +45,10 @@
 -   Deployed the application using NGINX for high-performance web serving and reverse proxy capabilities.
 -   Designed and created reusable, carousel components for SPAs built on Adobe Experience Manager (AEM).
 
+
+#### **Software Development Intern** @ Software Tree
+-   Engineered microservices to enable seamless data migration between relational and NoSQL databases.
+-   Built robust data pipelines from local JSON sources, leveraging native APIs for reliable integration.
 ---
 
 ### 🤖 Featured Projects
@@ -56,9 +60,6 @@
 #### **Parallelising DMRG (High-Performance Computing)**
 -   Accelerated Density Matrix Renormalization Group (DMRG) computations for quantum simulations using GPU parallelism with CUDA.
 
-#### **Microservices & Data Pipelines** @ Software Tree
--   Engineered microservices to enable seamless data migration between relational and NoSQL databases.
--   Built robust data pipelines from local JSON sources, leveraging native APIs for reliable integration.
 
 ---
 
