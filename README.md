@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  <img src="https://camo.githubusercontent.com/6a4da679536aef4caa4338bd657dc33b2fc530a54b1fac28f5ca6f36a1a7763a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f706972617465706172726f742e676966" width="50" />
+  
   <h1>Hi there, I'm Abhishek Dhekane</h1>
   <p>A Computer Science student at BITS Pilani passionate about building intelligent systems and full-stack solutions that create real-world impact.</p>
   
@@ -70,6 +71,17 @@
 -   **Teaching Assistant:** Served as a TA for 3 BITS Pilani courses on Coursera and developed content for one course.
 
 <br>
+
+
+
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&height=30&color=gradient&section=header" /> <br/>
+  <h3 align="center">
   <i>"Engineering competition aircraft ✈️, architecting full-stack applications 💻, playing the Tabla 🥁, exploring vast anime sagas 🍥, and conquering new gaming worlds 🎮"</i>
+</h3>
+  <img src="https://capsule-render.vercel.app/api?type=egg&height=30&color=gradient&section=footer" /> <br/>
 </p>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
