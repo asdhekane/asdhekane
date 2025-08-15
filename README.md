@@ -39,7 +39,7 @@
 
 ### 🚀 Work Experience
 
-#### **Software Engineering Intern** @ Dover India Innovation Center
+#### **Software Engineering Intern** @ Dover India Innovation Center <a href="https://github.com/asdhekane/Domcat-dover-internship-overview"><img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github"></a>
 -   Architected and implemented a full-stack web application to automate domain categorization, **reducing manual effort by over 90%** while following an Agile development strategy.
 -   Utilized a BERT-based NLP engine for intelligent domain categorization, **improving classification precision by over 50%**, with a Python FastAPI backend and MongoDB for storage.
 -   Developed a secure frontend in React, incorporating robust error handling and authentication using MSAL and Platform Identity Management (IdM).
@@ -47,7 +47,7 @@
 -   Designed and created reusable, carousel components for SPAs built on Adobe Experience Manager (AEM).
 
 
-#### **Software Development Intern** @ Software Tree
+#### **Software Development Intern** @ Software Tree 
 -   Engineered microservices to enable seamless data migration between relational and NoSQL databases.
 -   Built robust data pipelines from local JSON sources, leveraging native APIs for reliable integration.
 ---
