@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
--   🔭 I’m currently working on **agentic AI systems and distributed applications**.
+-   🔭 I’ve developed **automated workflows with n8n** and am currently in the R&D phase for an **AI therapist** aimed at college students.
 -   🌱 I’m currently learning about **advanced system design and cloud-native technologies**.
 -   💬 Ask me about **Python, C++, JavaScript, Full-Stack Development, and AI/ML**.
 -   📫 How to reach me: **abhisheks.dhekane@gmail.com**
