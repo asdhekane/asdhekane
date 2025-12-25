@@ -8,6 +8,7 @@
   <p>
     <a href="https://www.linkedin.com/in/abhishek-dhekane-6639b1264/"><img src="https://img.shields.io/badge/LinkedIn-7E3DC8?style=for-the-badge&logo=linkedin&logoColor=77FF00" alt="LinkedIn"/></a>
     <a href="mailto:abhisheks.dhekane@gmail.com"><img src="https://img.shields.io/badge/Email-2E2E2E?style=for-the-badge&logo=gmail&logoColor=77FF00" alt="Email"/></a>
+    <a href="https://abhishek-dhekane.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=77FF00" alt="Portfolio Website"/></a>
   </p>
 </div>
 
